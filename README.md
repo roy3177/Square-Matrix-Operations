@@ -39,7 +39,6 @@ unary operatos, and more.
 
 **([]):** Indexing support for accessing and modifying individual elements .
 
-**[> >]:**Prints our matrix.
 
 This project includes input validation,exception handling,and extensive unit tests.
 
